@@ -1,0 +1,33 @@
+ati
+ELM327 v1.2a
+
+>04
+7F 04 22
+
+>03
+43 00 00 00 00 00 00
+
+>0101
+41 01 00 05 21 00
+
+>03
+43 00 00 00 00 00 00
+
+>04
+7F 04 22
+
+>
+
+'bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+ati
+ELM327 v1.2a
+
+>0101
+41 01 00 05 21 00
+
+>03
+43 00 00 00 00 00 00
+
+
+
