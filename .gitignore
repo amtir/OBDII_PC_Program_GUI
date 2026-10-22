@@ -19,3 +19,7 @@
 Thumbs.db
 desktop.ini
 .DS_Store
+
+# User-specific / per-machine files
+*.suo
+*.user
