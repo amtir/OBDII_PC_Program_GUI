@@ -56,7 +56,7 @@ Tested on a **Renault Mégane II** (protocol ISO 14230-4 KWP2000 Fast).
 1. Open `src/ODB2/ODB2.sln` in Visual Studio.
 2. Plug the ELM327 adapter into the car's OBD-II port and connect it to the PC.
 3. Set the serial port in `Form1.vb` (default **COM3**, **38400 baud**).
-4. Build and run, then click **Start / Connect** with the ignition on.
+4. Build and run, then click **Start Connect** with the ignition on.
 
 ## Sample Log
 
